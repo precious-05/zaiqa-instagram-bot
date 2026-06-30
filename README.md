@@ -1,1 +1,1 @@
-# zaiqa-instagram-bot
+# zaiqa-instagram-bot .
